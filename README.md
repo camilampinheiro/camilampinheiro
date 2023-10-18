@@ -1,5 +1,5 @@
 ## Hi there 👋
-😃 My name is Camila
+- My name is Camila
 
 ## About me 💻
 - I am studying and learning front-end
