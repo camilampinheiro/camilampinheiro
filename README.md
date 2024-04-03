@@ -3,6 +3,15 @@
     <p>I am studying full-stack programming.</p>
 </div>
 
+<div height=200 align="center">
+    <a href="https://github.com/cams-mp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cams-mp&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/cams-mp/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cams-mp&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=midnight-purple" />
+</a>
+</div>
+
 <a href="https://github.com/cams-mp/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cams-mp&show_icons=true&theme=midnight-purple" />
 </a>
