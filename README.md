@@ -3,14 +3,7 @@
     <p>I am studying full-stack programming.</p>
 </div>
 
-<div height=200 align="center">
-    <a href="https://github.com/cams-mp/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cams-mp&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/cams-mp/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cams-mp&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=midnight-purple" />
-</a>
-</div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="cams-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +19,7 @@
   <a href="https://instagram.com/camilampinheiro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/camss_mp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:camilampinheiro1108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/camila-martins-64527a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
