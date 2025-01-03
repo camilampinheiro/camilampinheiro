@@ -4,19 +4,19 @@ Meu nome é *Camila Pinheiro* e sou uma estudante de programação com interesse
 
 ## Sobre Mim
 
-- Estudante de Ciência da Computação, atualmente no 5º semestre
-- Gosto muito de Desenvolvimento Web, por enquanto mais no HTML e CSS
+- 🎓 Estudante de Ciência da Computação, atualmente no 5º semestre
+- Atualmente focada em aprimorar minhas habilidades em Desenvolvimento Web, com ênfase em HTML, CSS e JavaScript.
 
 ## Ferramentas de Desenvolvimento
 
-- Visual Studio Code
-- Figma
-- Canva
+- **Design:** Figma, Canva
+- **IDE:** Visual Studio Code
+- **Versionamento:** Git, GitHub
 
 ## Minhas Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vluz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&layout=compact&langs_count=7&theme=rose_pine" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilampinheiro&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilampinheiro&layout=compact&langs_count=7&theme=rose_pine" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
