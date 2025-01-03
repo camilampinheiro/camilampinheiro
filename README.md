@@ -1,14 +1,28 @@
-<div>
-    <h1>Hi there! My name is Camila Martins.</h1>
-    <p>I am studying full-stack programming.</p>
+# Hello World!
+
+Meu nome é *Camila Pinheiro* e sou uma estudante de programação com interesse em Front-end e Desenvolvimento Web. Proativa e dedicada, busco oportunidades para aplicar e desenvolver minhas habilidades técnicas.
+
+## Sobre Mim
+
+- Estudante de Ciência da Computação, atualmente no 5º semestre
+- Gosto muito de Desenvolvimento Web, por enquanto mais no HTML e CSS
+
+## Ferramentas de Desenvolvimento
+
+- Visual Studio Code
+- Figma
+- Canva
+
+## Minhas Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vluz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&layout=compact&langs_count=7&theme=rose_pine" />
 </div>
 
-
-
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="cams-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cams-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cams-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="cams-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cams-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="cams-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
