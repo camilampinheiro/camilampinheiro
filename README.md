@@ -1,6 +1,6 @@
 # Hello World!
 
-Meu nome é *Camila Pinheiro* e sou uma estudante de programação com interesse em Front-end e Desenvolvimento Web. Proativa e dedicada, busco oportunidades para aplicar e desenvolver minhas habilidades técnicas.
+Meu nome é **Camila Pinheiro** e sou uma estudante de programação com interesse em Front-end e Desenvolvimento Web. Proativa e dedicada, busco oportunidades para aplicar e desenvolver minhas habilidades técnicas.
 
 ## Sobre Mim
 
