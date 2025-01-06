@@ -10,7 +10,8 @@ Meu nome é **Camila Pinheiro** e sou uma estudante de programação com interes
 ## Ferramentas de Desenvolvimento
 
 - **Design:** Figma, Canva
-- **IDE:** Visual Studio Code
+- **Ferramentas:** Visual Studio Code, Postman
+- **Linguagens de Programação**: HTML, CSS, Java, Python, Javascript
 - **Versionamento:** Git, GitHub
 
 ## Minhas Estatísticas
