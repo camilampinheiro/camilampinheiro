@@ -1,18 +1,21 @@
 # Hello World!
 
-Meu nome é **Camila Pinheiro** e sou uma estudante de programação com interesse em Front-end e Desenvolvimento Web. Proativa e dedicada, busco oportunidades para aplicar e desenvolver minhas habilidades técnicas.
+Meu nome é **Camila Pinheiro** e sou uma estudante de programação. Proativa e dedicada, busco oportunidades para aplicar e desenvolver minhas habilidades técnicas.
 
 ## Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação, atualmente no 5º semestre
-- Atualmente focada em aprimorar minhas habilidades em Desenvolvimento Web, com ênfase em HTML, CSS e JavaScript.
+- Muita vontade de aprimorar minhas habilidade e aprender coisas novas.
 
-## Ferramentas de Desenvolvimento
+## Habilidades
 
-- **Design:** Figma, Canva
-- **Ferramentas:** Visual Studio Code, Postman
-- **Linguagens de Programação**: HTML, CSS, Java, Python, Javascript
-- **Versionamento:** Git, GitHub
+- **Linguagens de Programação:** Java, Javascript, Python, Typescript
+- **Front-end:** HTML, CSS, React.js, Tailwind CSS, Next.js
+- **Back-end**: Node.js, Fastify, Express.js, API REST
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
+- **Ferramentas & Versionamento:** Git, GitHub, VScode, Postman
+- **Design & Prototipação:** Figma, Canva
+- **Linguagens:** Português (Nativo), Inglês (Intermediário)
 
 ## Minhas Estatísticas
 <div align="center">
@@ -35,6 +38,5 @@ Meu nome é **Camila Pinheiro** e sou uma estudante de programação com interes
   <a href="https://discord.gg/camss_mp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:camilampinheiro1108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-martins-64527a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
