@@ -4,7 +4,7 @@ Meu nome é **Camila Pinheiro** e sou uma estudante de programação. Proativa e
 
 ## Sobre Mim
 
-- 🎓 Estudante de Ciência da Computação, atualmente no 5º semestre
+- 🎓 Estudante de Ciência da Computação, atualmente no 6º semestre
 - Muita vontade de aprimorar minhas habilidade e aprender coisas novas.
 
 ## Habilidades
