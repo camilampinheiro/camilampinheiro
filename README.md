@@ -9,13 +9,13 @@ Meu nome é **Camila Pinheiro** e sou uma estudante de programação. Proativa e
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Javascript, Python, Typescript
-- **Front-end:** HTML, CSS, React.js, Tailwind CSS, Next.js
-- **Back-end**: Node.js, Fastify, Express.js, API REST
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
-- **Ferramentas & Versionamento:** Git, GitHub, VScode, Postman
-- **Design & Prototipação:** Figma, Canva
-- **Linguagens:** Português (Nativo), Inglês (Intermediário)
+- **Linguagens de Programação**: Java, JavaScript, Python
+- **Front-end**: HTML, CSS, Tailwind CSS, Alpine.js
+- **Back-end**: PHP, Laravel, Livewire, Node.js, APIs REST
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, SQLite
+- **Ferramentas & Versionamento**: Git, GitHub, VS Code, Postman, PhpStorm
+- **Design & Prototipação**: Figma, Canva
+- **Idiomas**: Português (Nativo), Inglês (Intermediário)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="cams-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
